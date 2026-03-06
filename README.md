@@ -106,7 +106,7 @@ your-token-here
 
 ## Security Notes
 
-⚠️ **Important:**
+**Important:**
 - Never commit access tokens to version control
 - The output CSV contains user data - handle according to your organization's data policies
 - For automation, use environment variables or secure vaults for token storage
