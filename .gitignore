@@ -1,0 +1,28 @@
+# Output files - may contain sensitive user data
+*.csv
+pingone_user_audit.csv
+audit_report.csv
+
+# Token files - NEVER commit these
+*token*
+*.token
+.env
+.env.*
+secrets.*
+
+# PowerShell logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
