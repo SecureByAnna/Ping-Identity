@@ -122,4 +122,4 @@ Contributions welcome! Please open an issue or submit a pull request.
 
 ## Acknowledgments
 
-Developed with assistance from PingOne Support documentation.
+Developed with assistance from PingOne Support documentation and Claude Code.
